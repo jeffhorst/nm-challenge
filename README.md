@@ -1,3 +1,15 @@
+## Credit to D'Coders and their youtube video "Building a search filter with react hooks" (https://www.youtube.com/watch?v=Q8JyF3wpsHc&t=63s).  
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
